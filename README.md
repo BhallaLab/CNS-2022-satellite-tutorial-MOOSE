@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/BhallaLab/moose-examples.svg?branch=master)](https://travis-ci.org/BhallaLab/moose-examples).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BhallaLab/CNS-2022-satellite-tutorial-MOOSE/HEAD)
 
 Examples, tutorial and demo scripts.
 
